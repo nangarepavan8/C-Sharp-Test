@@ -1,0 +1,15 @@
+D:\Test\Playwright Test\PlaywrightDemo\bin\Debug\net6.0\PlaywrightDemo.exe
+D:\Test\Playwright Test\PlaywrightDemo\bin\Debug\net6.0\PlaywrightDemo.deps.json
+D:\Test\Playwright Test\PlaywrightDemo\bin\Debug\net6.0\PlaywrightDemo.runtimeconfig.json
+D:\Test\Playwright Test\PlaywrightDemo\bin\Debug\net6.0\PlaywrightDemo.dll
+D:\Test\Playwright Test\PlaywrightDemo\bin\Debug\net6.0\PlaywrightDemo.pdb
+D:\Test\Playwright Test\PlaywrightDemo\obj\Debug\net6.0\PlaywrightDemo.csproj.AssemblyReference.cache
+D:\Test\Playwright Test\PlaywrightDemo\obj\Debug\net6.0\PlaywrightDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Playwright Test\PlaywrightDemo\obj\Debug\net6.0\PlaywrightDemo.AssemblyInfoInputs.cache
+D:\Test\Playwright Test\PlaywrightDemo\obj\Debug\net6.0\PlaywrightDemo.AssemblyInfo.cs
+D:\Test\Playwright Test\PlaywrightDemo\obj\Debug\net6.0\PlaywrightDemo.csproj.CoreCompileInputs.cache
+D:\Test\Playwright Test\PlaywrightDemo\obj\Debug\net6.0\PlaywrightDemo.dll
+D:\Test\Playwright Test\PlaywrightDemo\obj\Debug\net6.0\refint\PlaywrightDemo.dll
+D:\Test\Playwright Test\PlaywrightDemo\obj\Debug\net6.0\PlaywrightDemo.pdb
+D:\Test\Playwright Test\PlaywrightDemo\obj\Debug\net6.0\PlaywrightDemo.genruntimeconfig.cache
+D:\Test\Playwright Test\PlaywrightDemo\obj\Debug\net6.0\ref\PlaywrightDemo.dll
