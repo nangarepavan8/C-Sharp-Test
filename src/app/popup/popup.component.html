@@ -1,0 +1,56 @@
+<!-- <h2>Employee Details</h2> -->
+
+<form style="margin: 6%;" class="example-form" [formGroup]="companyform" (ngSubmit)="SaveCompany()">
+
+
+    <mat-form-field class="'example-full-width" appearance="fill">
+        <mat-label> Id </mat-label>
+        <input matInput placeholder="Id " formControlName="id">
+    </mat-form-field>
+
+    <mat-form-field class="'example-full-width" appearance="fill">
+        <mat-label> Name </mat-label>
+        <input matInput placeholder="Name " formControlName="name">
+    </mat-form-field>
+
+    <mat-form-field class="'example-full-width" appearance="fill">
+        <mat-label> Emp Count </mat-label>
+        <input matInput placeholder="empcount" formControlName="empcount">
+    </mat-form-field>
+
+    <mat-form-field class="'example-full-width" appearance="fill">
+        <mat-label> Revenue </mat-label>
+        <input matInput placeholder="revenue " formControlName="revenue">
+    </mat-form-field>
+
+    <mat-form-field class="'example-full-width" appearance="fill">
+        <mat-label> Address </mat-label>
+        <input matInput placeholder="address " formControlName="address">
+    </mat-form-field>
+
+
+
+    <!-- <mat-form-field class="'example-full-width" appearance="fill">
+        <mat-label> Is Active </mat-label>
+        <input matInput placeholder="isactive " formControlName="isactive">
+    </mat-form-field> -->
+
+
+    <section class="example-section">
+        <mat-checkbox class="example-margin" formControlName="isactive">Is Active </mat-checkbox>
+    </section>
+
+    <div class="example-button-row">
+        <button mat-raised-button color="primary"> Save</button> | | <a (click)="Closepopup()" mat-raised-button
+            color="accent"> Close </a>
+    </div>
+
+
+
+
+
+
+
+
+
+</form>
